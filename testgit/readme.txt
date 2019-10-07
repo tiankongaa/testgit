@@ -26,3 +26,4 @@ nonono
 modify
 index area
 git add
+git checkout
