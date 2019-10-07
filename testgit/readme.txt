@@ -7,4 +7,11 @@
 00000
 01101010
 999999999999
+
 bbbbbb
+
+aaaaaaaa
+public static void main(){
+  String a;
+}
+
