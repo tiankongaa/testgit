@@ -29,3 +29,4 @@ git add
 git checkout
 
 dev  dev
+add  dev
